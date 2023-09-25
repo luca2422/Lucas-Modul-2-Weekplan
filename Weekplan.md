@@ -1,5 +1,38 @@
+# Monday
+
 <details open>
-<summary>Want to ruin the surprise?</summary>
+<summary> Beskrivelse </summary>
 <br>
-Well, you asked for it!
+Skriv her
+</details>
+
+# Tuesday
+
+<details open>
+<summary> Beskrivelse </summary>
+<br>
+Skriv her
+</details>
+
+# Wednesday
+
+<details open>
+<summary> Beskrivelse </summary>
+<br>
+Skriv her
+</details>
+
+# Thursday
+
+<details open>
+<summary> Beskrivelse </summary>
+<br>
+Skriv her
+</details>
+
+# Friday
+<details open>
+<summary> Beskrivelse </summary>
+<br>
+Skriv her
 </details>
