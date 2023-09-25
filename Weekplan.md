@@ -1,6 +1,6 @@
 # Weekplan
 
-### For this week I will be working to complete a professional certification from Microsoft called "Career Essentials in Software Development", while also learning to get a better with using GitHub, by doing the weekplan here and creating issues, which includes a task list. 
+### For this week I will be working to complete a professional certification from Microsoft called "Career Essentials in Software Development", while also learning to get a better using GitHub, by doing the weekplan here and creating issues, which includes a task list. 
 
 Link for the certification: https://www.linkedin.com/learning/paths/career-essentials-in-software-development-by-microsoft-and-linkedin?u=36836804
 
