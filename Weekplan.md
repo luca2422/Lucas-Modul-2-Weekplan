@@ -1,4 +1,8 @@
-# Monday
+# Weekplan
+
+### For this week I will be working to complete a professional cerfication from Microsoft called "Career Essentials in Software Development", while also learning to get a better with using GitHub, by doing the weekplan here and creating issues, which includes a tasklisk. 
+
+## Monday
 
 <details open>
 <summary> Beskrivelse </summary>
@@ -6,7 +10,7 @@
 Skriv her
 </details>
 
-# Tuesday
+## Tuesday
 
 <details open>
 <summary> Beskrivelse </summary>
@@ -14,7 +18,7 @@ Skriv her
 Skriv her
 </details>
 
-# Wednesday
+## Wednesday
 
 <details open>
 <summary> Beskrivelse </summary>
@@ -22,7 +26,7 @@ Skriv her
 Skriv her
 </details>
 
-# Thursday
+## Thursday
 
 <details open>
 <summary> Beskrivelse </summary>
@@ -30,7 +34,7 @@ Skriv her
 Skriv her
 </details>
 
-# Friday
+## Friday
 <details open>
 <summary> Beskrivelse </summary>
 <br>
