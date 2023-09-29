@@ -4,7 +4,7 @@
 
 Link for the certification: https://www.linkedin.com/learning/paths/career-essentials-in-software-development-by-microsoft-and-linkedin?u=36836804
 
-Link for my task list (issues): https://github.com/luca2422/Lucas-Modul-2-Weekplan/issues/1
+Link for my task list for the courses (Issues): https://github.com/luca2422/Lucas-Modul-2-Weekplan/issues/1
 
 ## Monday
 
