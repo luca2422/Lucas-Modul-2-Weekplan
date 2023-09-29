@@ -1,4 +1,4 @@
-# Weekplan
+# Week plan
 
 ### For this week I will be working to complete a professional certification from Microsoft called "Career Essentials in Software Development", while also learning to get a better using GitHub, by doing the weekplan here and creating issues, which includes a task list. 
 
