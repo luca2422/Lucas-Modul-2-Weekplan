@@ -50,6 +50,7 @@ Link for my task list for the courses (Issues): https://github.com/luca2422/Luca
 
 - I will be doing the last course of the certification: "Programming Foundations: Beyond the Fundamentals"
 - Following the task list
+- Completing the Final Exam for the certification
 - Power Pages (Studytube)
 
 </details>
